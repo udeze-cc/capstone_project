@@ -1,1 +1,433 @@
-
+State/Union Territory,Year,Literacy Rate (%)
+Andhra Pradesh,2001,60.4
+Arunachal Pradesh,2001,54.3
+Assam,2001,63.2
+Bihar,2001,47
+Chhattisgarh,2001,64.6
+Goa,2001,82
+Gujarat,2001,69.1
+Haryana,2001,67.9
+Himachal Pradesh,2001,76.4
+India,2001,64.8
+Jammu & Kashmir,2001,55.5
+Jharkhand,2001,53.5
+Karnataka,2001,66.6
+Kerala,2001,90.9
+Madhya Pradesh,2001,63.7
+Maharashtra,2001,76.8
+Manipur,2001,70.5
+Meghalaya,2001,62.5
+Mizoram,2001,88.8
+Nagaland,2001,66.6
+Odisha,2001,63
+Punjab,2001,69.6
+Rajasthan,2001,60.3
+Sikkim,2001,68.8
+Tamil Nadu,2001,73.4
+Tripura,2001,73.2
+Uttar Pradesh,2001,56.2
+Uttarakhand,2001,71.6
+West Bengal,2001,68.6
+A & N Islands,2001,81.3
+Chandigarh,2001,81.9
+D & N Haveli,2001,60
+Daman & Diu,2001,81.1
+Delhi,2001,81.7
+Lakshadweep,2001,86.7
+Puducherry,2001,81.2
+Andhra Pradesh,2002,60.8
+Arunachal Pradesh,2002,55
+Assam,2002,63.8
+Bihar,2002,47.6
+Chhattisgarh,2002,65
+Goa,2002,82.4
+Gujarat,2002,69.6
+Haryana,2002,68.3
+Himachal Pradesh,2002,76.8
+India,2002,65.3
+Jammu & Kashmir,2002,56.2
+Jharkhand,2002,54.3
+Karnataka,2002,67.1
+Kerala,2002,91
+Madhya Pradesh,2002,64.1
+Maharashtra,2002,77.2
+Manipur,2002,70.9
+Meghalaya,2002,63.2
+Mizoram,2002,88.9
+Nagaland,2002,67.3
+Odisha,2002,63.6
+Punjab,2002,70
+Rajasthan,2002,60.7
+Sikkim,2002,69.5
+Tamil Nadu,2002,73.8
+Tripura,2002,74
+Uttar Pradesh,2002,56.9
+Uttarakhand,2002,72
+West Bengal,2002,69.1
+A & N Islands,2002,81.7
+Chandigarh,2002,82.3
+D & N Haveli,2002,60.3
+Daman & Diu,2002,81.5
+Delhi,2002,82.1
+Lakshadweep,2002,87.1
+Puducherry,2002,81.6
+Andhra Pradesh,2003,61.7
+Arunachal Pradesh,2003,56.4
+Assam,2003,64.9
+Bihar,2003,49.8
+Chhattisgarh,2003,65.7
+Goa,2003,83.3
+Gujarat,2003,70.8
+Haryana,2003,69.3
+Himachal Pradesh,2003,77.7
+India,2003,66.4
+Jammu & Kashmir,2003,57.7
+Jharkhand,2003,55.9
+Karnataka,2003,68.3
+Kerala,2003,91.4
+Madhya Pradesh,2003,64.8
+Maharashtra,2003,77.9
+Manipur,2003,71.7
+Meghalaya,2003,64.8
+Mizoram,2003,89.3
+Nagaland,2003,69
+Odisha,2003,64.9
+Punjab,2003,70.8
+Rajasthan,2003,61.5
+Sikkim,2003,71.2
+Tamil Nadu,2003,74.7
+Tripura,2003,75.8
+Uttar Pradesh,2003,58.4
+Uttarakhand,2003,73
+West Bengal,2003,70.1
+A & N Islands,2003,82.1
+Chandigarh,2003,82.7
+D & N Haveli,2003,60.6
+Daman & Diu,2003,81.9
+Delhi,2003,82.5
+Lakshadweep,2003,87.6
+Puducherry,2003,82
+Andhra Pradesh,2004,62.3
+Arunachal Pradesh,2004,57.5
+Assam,2004,65.8
+Bihar,2004,51.2
+Chhattisgarh,2004,66.3
+Goa,2004,83.9
+Gujarat,2004,71.7
+Haryana,2004,70.1
+Himachal Pradesh,2004,78.3
+India,2004,67.2
+Jammu & Kashmir,2004,58.8
+Jharkhand,2004,57.2
+Karnataka,2004,69.1
+Kerala,2004,91.8
+Madhya Pradesh,2004,65.3
+Maharashtra,2004,78.4
+Manipur,2004,72.3
+Meghalaya,2004,65.9
+Mizoram,2004,89.5
+Nagaland,2004,70.3
+Odisha,2004,65.9
+Punjab,2004,71.4
+Rajasthan,2004,62
+Sikkim,2004,72.4
+Tamil Nadu,2004,75.3
+Tripura,2004,77.2
+Uttar Pradesh,2004,59.5
+Uttarakhand,2004,73.7
+West Bengal,2004,70.8
+A & N Islands,2004,82.5
+Chandigarh,2004,83.1
+D & N Haveli,2004,60.9
+Daman & Diu,2004,82.3
+Delhi,2004,82.9
+Lakshadweep,2004,88
+Puducherry,2004,82.4
+Andhra Pradesh,2005,63
+Arunachal Pradesh,2005,58.7
+Assam,2005,66.8
+Bihar,2005,52.8
+Chhattisgarh,2005,66.9
+Goa,2005,84.7
+Gujarat,2005,72.6
+Haryana,2005,70.9
+Himachal Pradesh,2005,79
+India,2005,68.1
+Jammu & Kashmir,2005,60.1
+Jharkhand,2005,58.6
+Karnataka,2005,70.1
+Kerala,2005,92.1
+Madhya Pradesh,2005,65.9
+Maharashtra,2005,79
+Manipur,2005,73
+Meghalaya,2005,67.2
+Mizoram,2005,89.8
+Nagaland,2005,71.7
+Odisha,2005,67
+Punjab,2005,72.1
+Rajasthan,2005,62.7
+Sikkim,2005,73.8
+Tamil Nadu,2005,76.1
+Tripura,2005,78.7
+Uttar Pradesh,2005,60.8
+Uttarakhand,2005,74.5
+West Bengal,2005,71.7
+A & N Islands,2005,82.9
+Chandigarh,2005,83.6
+D & N Haveli,2005,61.2
+Daman & Diu,2005,82.7
+Delhi,2005,83.3
+Lakshadweep,2005,88.4
+Puducherry,2005,82.8
+Andhra Pradesh,2006,63.5
+Arunachal Pradesh,2006,59.5
+Assam,2006,67.4
+Bihar,2006,53.9
+Chhattisgarh,2006,67.3
+Goa,2006,85.1
+Gujarat,2006,73.3
+Haryana,2006,71.5
+Himachal Pradesh,2006,79.4
+India,2006,68.7
+Jammu & Kashmir,2006,61
+Jharkhand,2006,59.6
+Karnataka,2006,70.7
+Kerala,2006,92.3
+Madhya Pradesh,2006,66.3
+Maharashtra,2006,79.4
+Manipur,2006,73.5
+Meghalaya,2006,68.1
+Mizoram,2006,90
+Nagaland,2006,72.7
+Odisha,2006,67.7
+Punjab,2006,72.5
+Rajasthan,2006,63.1
+Sikkim,2006,74.7
+Tamil Nadu,2006,76.6
+Tripura,2006,79.8
+Uttar Pradesh,2006,61.6
+Uttarakhand,2006,75
+West Bengal,2006,72.2
+A & N Islands,2006,83.4
+Chandigarh,2006,84
+D & N Haveli,2006,61.5
+Daman & Diu,2006,83.1
+Delhi,2006,83.8
+Lakshadweep,2006,88.9
+Puducherry,2006,83.3
+Andhra Pradesh,2007,64.4
+Arunachal Pradesh,2007,60.9
+Assam,2007,68.6
+Bihar,2007,55.8
+Chhattisgarh,2007,68
+Goa,2007,86
+Gujarat,2007,74.4
+Haryana,2007,72.5
+Himachal Pradesh,2007,80.3
+India,2007,69.7
+Jammu & Kashmir,2007,62.5
+Jharkhand,2007,61.2
+Karnataka,2007,71.9
+Kerala,2007,92.7
+Madhya Pradesh,2007,67.1
+Maharashtra,2007,80.1
+Manipur,2007,74.3
+Meghalaya,2007,69.6
+Mizoram,2007,90.3
+Nagaland,2007,74.4
+Odisha,2007,68.9
+Punjab,2007,73.3
+Rajasthan,2007,63.8
+Sikkim,2007,76.3
+Tamil Nadu,2007,77.4
+Tripura,2007,81.6
+Uttar Pradesh,2007,63.1
+Uttarakhand,2007,75.9
+West Bengal,2007,73.2
+A & N Islands,2007,83.8
+Chandigarh,2007,84.4
+D & N Haveli,2007,61.8
+Daman & Diu,2007,83.6
+Delhi,2007,84.2
+Lakshadweep,2007,89.3
+Puducherry,2007,83.7
+Andhra Pradesh,2008,65
+Arunachal Pradesh,2008,62
+Assam,2008,69.5
+Bihar,2008,57.3
+Chhattisgarh,2008,68.6
+Goa,2008,86.6
+Gujarat,2008,75.3
+Haryana,2008,73.2
+Himachal Pradesh,2008,80.9
+India,2008,70.5
+Jammu & Kashmir,2008,63.6
+Jharkhand,2008,62.5
+Karnataka,2008,72.7
+Kerala,2008,93
+Madhya Pradesh,2008,67.6
+Maharashtra,2008,80.6
+Manipur,2008,74.9
+Meghalaya,2008,70.8
+Mizoram,2008,90.5
+Nagaland,2008,75.6
+Odisha,2008,69.9
+Punjab,2008,73.9
+Rajasthan,2008,64.4
+Sikkim,2008,77.5
+Tamil Nadu,2008,78.1
+Tripura,2008,82.9
+Uttar Pradesh,2008,64.2
+Uttarakhand,2008,76.6
+West Bengal,2008,73.9
+A & N Islands,2008,84.2
+Chandigarh,2008,84.8
+D & N Haveli,2008,62.1
+Daman & Diu,2008,84
+Delhi,2008,84.6
+Lakshadweep,2008,89.8
+Puducherry,2008,84.1
+Andhra Pradesh,2009,65.7
+Arunachal Pradesh,2009,63.2
+Assam,2009,70.4
+Bihar,2009,58.8
+Chhattisgarh,2009,69.2
+Goa,2009,87.4
+Gujarat,2009,76.2
+Haryana,2009,74.1
+Himachal Pradesh,2009,81.5
+India,2009,71.4
+Jammu & Kashmir,2009,64.9
+Jharkhand,2009,63.8
+Karnataka,2009,73.6
+Kerala,2009,93.4
+Madhya Pradesh,2009,68.2
+Maharashtra,2009,81.2
+Manipur,2009,75.6
+Meghalaya,2009,72
+Mizoram,2009,90.8
+Nagaland,2009,77
+Odisha,2009,70.9
+Punjab,2009,74.6
+Rajasthan,2009,65
+Sikkim,2009,78.9
+Tamil Nadu,2009,78.8
+Tripura,2009,84.4
+Uttar Pradesh,2009,65.4
+Uttarakhand,2009,77.4
+West Bengal,2009,74.8
+A & N Islands,2009,84.6
+Chandigarh,2009,85.2
+D & N Haveli,2009,62.4
+Daman & Diu,2009,84.4
+Delhi,2009,85
+Lakshadweep,2009,90.2
+Puducherry,2009,84.5
+Andhra Pradesh,2010,66.3
+Arunachal Pradesh,2010,64.2
+Assam,2010,71.2
+Bihar,2010,60.1
+Chhattisgarh,2010,69.7
+Goa,2010,87.9
+Gujarat,2010,77
+Haryana,2010,74.7
+Himachal Pradesh,2010,82.1
+India,2010,72.1
+Jammu & Kashmir,2010,65.9
+Jharkhand,2010,64.9
+Karnataka,2010,74.4
+Kerala,2010,93.6
+Madhya Pradesh,2010,68.7
+Maharashtra,2010,81.7
+Manipur,2010,76.2
+Meghalaya,2010,73.1
+Mizoram,2010,91
+Nagaland,2010,78.1
+Odisha,2010,71.8
+Punjab,2010,75.1
+Rajasthan,2010,65.5
+Sikkim,2010,80
+Tamil Nadu,2010,79.3
+Tripura,2010,85.6
+Uttar Pradesh,2010,66.4
+Uttarakhand,2010,78
+West Bengal,2010,75.4
+A & N Islands,2010,85
+Chandigarh,2010,85.7
+D & N Haveli,2010,62.8
+Daman & Diu,2010,84.8
+Delhi,2010,85.5
+Lakshadweep,2010,90.7
+Puducherry,2010,84.9
+Andhra Pradesh,2011,67
+Arunachal Pradesh,2011,65.4
+Assam,2011,72.2
+Bihar,2011,61.8
+Chhattisgarh,2011,70.3
+Goa,2011,88.7
+Gujarat,2011,78
+Haryana,2011,75.6
+Himachal Pradesh,2011,82.8
+India,2011,74
+Jammu & Kashmir,2011,67.2
+Jharkhand,2011,66.4
+Karnataka,2011,75.4
+Kerala,2011,94
+Madhya Pradesh,2011,69.3
+Maharashtra,2011,82.3
+Manipur,2011,79.2
+Meghalaya,2011,74.4
+Mizoram,2011,91.3
+Nagaland,2011,79.6
+Odisha,2011,72.9
+Punjab,2011,75.8
+Rajasthan,2011,66.1
+Sikkim,2011,81.4
+Tamil Nadu,2011,80.1
+Tripura,2011,87.2
+Uttar Pradesh,2011,67.7
+Uttarakhand,2011,78.8
+West Bengal,2011,76.3
+A & N Islands,2011,86.6
+Chandigarh,2011,86
+D & N Haveli,2011,76.2
+Daman & Diu,2011,87.1
+Delhi,2011,86.2
+Lakshadweep,2011,91.8
+Puducherry,2011,85.8
+Andhra Pradesh,2012,67.7
+Arunachal Pradesh,2012,66.1
+Assam,2012,72.8
+Bihar,2012,62
+Chhattisgarh,2012,71.1
+Goa,2012,89.6
+Gujarat,2012,78.8
+Haryana,2012,76.7
+Himachal Pradesh,2012,84.2
+India,2012,73.7
+Jammu & Kashmir,2012,67.9
+Jharkhand,2012,66.8
+Karnataka,2012,76.1
+Kerala,2012,94.5
+Madhya Pradesh,2012,70.1
+Maharashtra,2012,83.2
+Manipur,2012,78
+Meghalaya,2012,75
+Mizoram,2012,92
+Nagaland,2012,80.7
+Odisha,2012,73.5
+Punjab,2012,76.9
+Rajasthan,2012,66.8
+Sikkim,2012,82.3
+Tamil Nadu,2012,81.1
+Tripura,2012,88.1
+Uttar Pradesh,2012,68.1
+Uttarakhand,2012,79.8
+West Bengal,2012,77
+A & N Islands,2012,87
+Chandigarh,2012,86.4
+D & N Haveli,2012,76.6
+Daman & Diu,2012,87.5
+Delhi,2012,86.6
+Lakshadweep,2012,92.3
+Puducherry,2012,86.2
